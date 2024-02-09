@@ -1,0 +1,33 @@
+/* App.css */
+.App {
+  text-align: center;
+}
+
+.banner {
+  background-image: url("https://res.cloudinary.com/dfl9wcmy4/image/upload/v1707510567/r4zc7wbcgm3rcqtivj7d.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  color: white;
+  padding: 200px 0;
+}
+
+.banner h1 {
+  font-size: 3rem;
+  margin-bottom: 20px;
+}
+
+.banner p {
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+}
+
+.content {
+  margin: 50px 0;
+}
+
+footer {
+  background-color: #333;
+  color: white;
+  padding: 20px 0;
+}
