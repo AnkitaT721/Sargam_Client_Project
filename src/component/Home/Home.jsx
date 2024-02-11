@@ -6,13 +6,10 @@ const Home = () => {
     <>
       <div className="App">
         <header className="banner">
-          <h1>Welcome to Sargam Musical Store</h1>
+          <h1>Welcome to <span style={{ color: "rgb(234, 152, 0)" }}>Sargam Musical Store</span></h1>
           <p>
-            No1 store for all indian classical and <br /> western instruments
+            No.1 store for all indian classical and <br /> western instruments
           </p>
-          {/* <p>
-            D.B.C Road, Kamar Para, Jalpaiguri 
-          </p> */}
         </header>
         <main>
           <section className="content">
