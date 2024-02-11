@@ -35,6 +35,12 @@ const images = [
       alt: "6th Slide",
       caption: "This is the 6th image in the carousel",
     },
+    {
+      id: 7,
+      url: "https://res.cloudinary.com/dfl9wcmy4/image/upload/v1707674108/SARGAM/mtrepgaltwptdf31lyrx.jpg",
+      alt: "7th Slide",
+      caption: "This is the 7th image in the carousel",
+    },
   ];
   
   export default images;
